@@ -1,3 +1,5 @@
+/// <reference path="libUtil.js"/>
+
 function test() {
     document.write("Hello World");
 }
